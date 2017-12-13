@@ -1,7 +1,7 @@
-#My Hero plugin
+# My Hero plugin
 Demo:[https://htmlpreview.github.io/?https://github.com/katya-voitko/Katya_MyHero/blob/firstBrunch/dist/index.html]
 
-How to use:
+### How to use:
  ``` 
       <header class="myHero">
         <div data-color1="#4b6cb7" data-color2="#182848" data-direction="45deg" data-opacity="0.6" class="overlay"></div>
