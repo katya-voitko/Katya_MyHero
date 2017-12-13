@@ -14,7 +14,7 @@ Demo:[https://htmlpreview.github.io/?https://github.com/katya-voitko/Katya_MyHer
 
       </header>
 ```
-<u>place your image into <div class="myHero__background"></u>
+<u>place your image <u> <div class="myHero__background"></u>
 
 -  data-url: to place the link example:  ``` data-url="http://ozon4life.com/data/out/63/image-159575164.jpg"  ```
 - data-image: to fill in the name of your image file  example:  ``` data-image="MyHero.jpg"  ```
