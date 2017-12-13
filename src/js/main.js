@@ -4,7 +4,7 @@ $( document ).ready(function() {
   var myImage = $(".myHero__background").data("image");
 
   console.log(myImage);
-  $(".myHero__background").css("background-image","url('../img/"+myImage+".jpg')");
+  $(".myHero__background").css("background-image","url('../img/"+myImage+"')");
 
  // OPACITY
 
@@ -20,6 +20,6 @@ var myGredientDirection = $(".overlay").data("direction");
 console.log(myGredientDirection);
 
 $(".overlay").css("background","linear-gradient("+myGredientDirection+","+myGredientColor1+","+myGredientColor2+")");
-// linear-gradient(to right, #cb356b, #bd3f32);
+
 
 });
